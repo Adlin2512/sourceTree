@@ -22,7 +22,7 @@ router.get('/', (req, res)=> {
                  "totalDataCount": 4,
                  "data": [
                      {
-                       "partName":"partName1",
+                       "partName":"partName01",
                         "id":76543,
                         "assetId":87654,
                         "quantity":4,
