@@ -11,8 +11,8 @@ router.post("/", (req,res)=>{
 });
 
 router.get('/', (req, res)=> {
-
-    const result = 
+//test
+    const relt = 
        {
             status:200,
             message:"Spares fetched successfully",
